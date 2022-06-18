@@ -9,7 +9,7 @@ import SwiftUI
 
 struct CVView: View {
     
-    @State var showCV = true
+    @State var showCV = false
     var width: CGFloat
     
     var body: some View {
@@ -32,7 +32,10 @@ struct CVView: View {
             }.frame(width: width, alignment: .leading)
             
             if(showCV) {
-                CVItemView()
+                ForEach(0 ..< 7) { item in
+                    CVItemView(Item: item, width: UIScreen.main.bounds.width - 20)
+                }
+                
             }
         }
         

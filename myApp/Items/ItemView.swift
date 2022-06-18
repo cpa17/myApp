@@ -63,7 +63,8 @@ struct ItemView: View {
             Text(ItemText[Item])
                 .fontWeight(.bold)
                 .padding(.top, 5.0)
-                .font(.system(size: 17))
+                .font(.system(size: 16))
+                .frame(width: 90)
         }.padding()
             .frame(width: width)
             .background(
