@@ -8,3 +8,4 @@ Privates Projekt, bei dem ich ein kleines Portfolio von mir erstellt und als iOS
 
 ## Dark Mode
 
+<img width="200" alt="7" src="https://user-images.githubusercontent.com/82649637/174435201-6a19c24d-8440-4236-a3a1-d5352a8b0bca.png"> <img width="200" alt="8" src="https://user-images.githubusercontent.com/82649637/174435200-67ddac27-e8d3-451c-97a1-60b5b04eadd3.png"> <img width="200" alt="9" src="https://user-images.githubusercontent.com/82649637/174435199-9d66c979-8d7e-4f70-bb67-1e508cacfd3a.png"> <img width="200" alt="10" src="https://user-images.githubusercontent.com/82649637/174435198-fdef00a7-c250-4dae-aa1f-ba97468c520e.png"> <img width="200" alt="11" src="https://user-images.githubusercontent.com/82649637/174435197-85974ffc-0dfc-47f3-a37f-e40bc0edee90.png"> <img width="200" alt="12" src="https://user-images.githubusercontent.com/82649637/174435195-14bb2f36-bf39-4930-85a2-4cb7ae9f1281.png">
