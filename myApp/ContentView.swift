@@ -26,6 +26,7 @@ struct ContentView: View {
                 ProjectView(width: UIScreen.main.bounds.width - 20).padding(.top, 10.0)
                 
                 CVView(width: UIScreen.main.bounds.width - 20).padding(.top, 10.0)
+        
             }
         }
     }

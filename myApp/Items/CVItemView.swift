@@ -44,11 +44,6 @@ struct CVItemView: View {
     
     var body: some View {
         VStack(alignment: .leading) {
-            Circle()
-                .frame(width: 10, height: 10)
-                .opacity(0.8)
-                .padding(.leading, 5.0)
-            
             HStack {
                 RoundedRectangle(cornerRadius: 8)
                     .frame(width: 3.0)
@@ -71,6 +66,11 @@ struct CVItemView: View {
                         .padding(.top, 5.0)
                 }.padding(10.0)
             }.frame(width: width, alignment: .leading)
+                .padding(.leading, 5.0)
+            
+            Circle()
+                .frame(width: 10, height: 10)
+                .opacity(0.8)
                 .padding(.leading, 5.0)
         }.fixedSize()
     }
